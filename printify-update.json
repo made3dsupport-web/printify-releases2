@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.18",
+    "version":  "1.2.19",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Safety update: removes the remaining popup message boxes and uses in-window panels so OK/Cancel buttons do not freeze Printify.",
+    "release_notes":  "Safety update: removes the last modal popup button flow. Add/Edit filament now uses an in-window panel, and update/info buttons stay inside the main Printify window so button clicks do not freeze the app.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-24",
-    "package_sha256":  "7a993e583259f2c5b67ed1ab283ba7bb6098cb91f878c26dc1eeef04133cd5ea"
+    "package_sha256":  "5d2aed5889952a1049043bbb538ed73a316e22ba3284996de8e9951f5f0bd85e"
 }
