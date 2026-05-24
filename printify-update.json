@@ -1,0 +1,9 @@
+{
+  "version": "1.2.0",
+  "download_url": "https://github.com/made3dsupport-web/printify-releases/releases/latest/download/Printify-Windows.zip",
+  "release_notes": "We changed the UI and added some tweaks to the system. Hope this is good",
+  "mandatory": false,
+  "auto_install": true,
+  "published_at": "2026-05-23",
+  "package_sha256": ""
+}
