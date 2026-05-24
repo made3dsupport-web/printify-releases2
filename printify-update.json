@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.8",
+    "version":  "1.2.9",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Fake test update: fixed the frozen update popup so Printify stays responsive while asking to install.",
+    "release_notes":  "Fake test update: verifies the non-freezing updater popup and install flow after the crash fix.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-24",
-    "package_sha256":  "ce8d153c84feb4bdfc1deab29f2fed499b4a5135a7d48257cc8283ce38666386"
+    "package_sha256":  "be2df0a9a8cf1f9c4ec60807934968e99efdaa09826617e299f935a7c0f8f82f"
 }
