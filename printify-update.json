@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.21",
+    "version":  "1.2.22",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Print History Fix",
+    "release_notes":  "Silent update notice: after Printify installs an update and opens again, it now shows Update Installed once with the fixes from that update.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-24",
-    "package_sha256":  "9eb7976bdf35602cd2c0d74c5a47ad8ee68335bcd252891b93226ff80236f546"
+    "package_sha256":  "eb5a68c51c2af3bf4e9c0493d5b0033a04a4f5949b67bf47345b77ce3ae151b3"
 }
