@@ -3,7 +3,7 @@
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
     "release_notes":  "We changed the UI and added some tweaks to the system. Hope this is good",
     "mandatory":  false,
-    "auto_install":  true,
+    "auto_install":  false,
     "published_at":  "2026-05-23",
-    "package_sha256":  "7ba2bfae05a7161bd9827a21bdae07dd83802b992b0285fb283716189a522b27"
+    "package_sha256":  "8fd44beaf8e70b2b7259fd159d1a97d21c7fffcfc35b23169b55939e428befb2"
 }
