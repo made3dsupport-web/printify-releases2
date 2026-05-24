@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.1",
+    "version":  "1.2.2",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "TEST UPDATE ONLY: This is a test of the Printify automatic updater.",
+    "release_notes":  "Updater revamp: official update channel locked in, old broken update URLs are repaired automatically, Ask before installing updates is on by default, and update installs no longer wait on an extra OK dialog.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-24",
-    "package_sha256":  "906c34b84a051e6b578f19dfe08c7f4d3ec6cd7b8d574b3b986a0d630a88fe19"
+    "package_sha256":  "689198b4e77a900e7b6be7786903b3ab3a7918270c73f4c80bc8e1a1458a3b15"
 }
