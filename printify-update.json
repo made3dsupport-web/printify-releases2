@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.20",
+    "version":  "1.2.21",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Updater UI update: after clicking Yes, Update, Printify now shows a 3-second progress bar, then asks whether to Restart Now or Restart Later before installing.",
+    "release_notes":  "Print History Fix",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-24",
-    "package_sha256":  "a9bf2a57d21b32b64cd86a5e458d5d81706671650dd2ace1104cce138bc39b63"
+    "package_sha256":  "9eb7976bdf35602cd2c0d74c5a47ad8ee68335bcd252891b93226ff80236f546"
 }
