@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.5",
+    "version":  "1.2.6",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "FAKE TEST UPDATE ONLY: This release tests the revamped updater from the fixed v1.2.4 build.",
+    "release_notes":  "Updater reliability fix: update check and install workers are now retained correctly so the background update process actually runs instead of staying on Checking.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-24",
-    "package_sha256":  "109c4d6f83ae367bc11a68af3e9c5a069fbc17d5dc1b5868a21f56bfd83642c3"
+    "package_sha256":  "4de705caddf620f039e225d3634d5925e61105ba3d86e9c71ba825c860d191ca"
 }
