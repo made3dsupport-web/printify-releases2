@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.4",
+    "version":  "1.2.5",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Updater reliability fix: HTTP requests now use stricter timeouts, update checks cannot stay stuck forever, and updater diagnostics are written to a local update log.",
+    "release_notes":  "FAKE TEST UPDATE ONLY: This release tests the revamped updater from the fixed v1.2.4 build.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-24",
-    "package_sha256":  "f94eb0ef4e407f6b8f4635e63ead4c2827b32199a9a5252c3f04616ede31b958"
+    "package_sha256":  "109c4d6f83ae367bc11a68af3e9c5a069fbc17d5dc1b5868a21f56bfd83642c3"
 }
