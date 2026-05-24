@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.11",
+    "version":  "1.2.13",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Fake test update: final updater crash test using the new responsive popup.",
+    "release_notes":  "Fake test update: confirms the updater button no longer crashes because the helper downloads and installs outside Printify.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-24",
-    "package_sha256":  "d3f9f68411a576eca72522fe76bb24732a25e57fe16a96237435a373965cda48"
+    "package_sha256":  "c7dfbf5bd08d26c7ce49104963c98ebf51b585cb1b8bf856d27bae16246fd57a"
 }
