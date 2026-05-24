@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.17",
+    "version":  "1.2.18",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Fake test update: fixes Windows Access Denied by launching the updater from a temporary folder before replacing Printify.",
+    "release_notes":  "Safety update: removes the remaining popup message boxes and uses in-window panels so OK/Cancel buttons do not freeze Printify.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-24",
-    "package_sha256":  "6dcc5f61e25bac96c427bd70708aa43257b9d8a2605ad3864cf53a3d63b76238"
+    "package_sha256":  "7a993e583259f2c5b67ed1ab283ba7bb6098cb91f878c26dc1eeef04133cd5ea"
 }
