@@ -1,9 +1,9 @@
 {
-  "version": "1.2.0",
-  "download_url": "https://github.com/made3dsupport-web/printify-releases/releases/latest/download/Printify-Windows.zip",
-  "release_notes": "We changed the UI and added some tweaks to the system. Hope this is good",
-  "mandatory": false,
-  "auto_install": true,
-  "published_at": "2026-05-23",
-  "package_sha256": ""
+    "version":  "1.2.0",
+    "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
+    "release_notes":  "We changed the UI and added some tweaks to the system. Hope this is good",
+    "mandatory":  false,
+    "auto_install":  true,
+    "published_at":  "2026-05-23",
+    "package_sha256":  "cbb08e90fdcdd0f9371fc748783bd5b2365c3cf701872b8df50e4acd3232afe8"
 }
