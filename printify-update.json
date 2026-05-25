@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.37",
+    "version":  "1.2.38",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Fixed the New Print filament search freezing after the first typed character. Typing now stays smooth, and fuzzy filament matching still works without rebuilding the dropdown while you type.",
+    "release_notes":  "Costivo update: renamed the app UI, added the Costivo icon, fixed Settings and New Print text layout, improved fuzzy filament search for all brands, and added ANYCUBIC official 1KG and bulk filament defaults.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-25",
-    "package_sha256":  "a87121404e3dc0072633adae629ec41fa633b5aaaf2e9e25a888cd1cba0c412c"
+    "package_sha256":  "ab84447602bfc11f148513ec1a719311f11082cd2c5b98d5923cc1a95be2f384"
 }
