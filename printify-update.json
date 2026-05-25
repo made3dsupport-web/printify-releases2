@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.30",
+    "version":  "1.2.31",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Cleaned up the New Print UI so the input boxes no longer overlap or draw broken controls.",
+    "release_notes":  "Fixed update checks to use the raw GitHub manifest instead of the GitHub API, reduced automatic check frequency, and added safer rate-limit handling.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-24",
-    "package_sha256":  "d9ec2c3a1adcdac84c6c87e950ae7c51a4bfb74f1c9d30ca052c2090e1afb6b4"
+    "package_sha256":  "31e5fdda41b0e142cf55395591d40633aadb8f8cc460c2686c8fdf7e942e5f3e"
 }
