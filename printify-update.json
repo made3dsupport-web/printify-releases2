@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.38",
+    "version":  "1.2.39",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Costivo update: renamed the app UI, added the Costivo icon, fixed Settings and New Print text layout, improved fuzzy filament search for all brands, and added ANYCUBIC official 1KG and bulk filament defaults.",
+    "release_notes":  "Quick UI fix: fixed the black New Print background caused by the scroll-safe layout, restored the white cards, and made the default starting filament Bambu Lab PLA Basic again.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-25",
-    "package_sha256":  "ab84447602bfc11f148513ec1a719311f11082cd2c5b98d5923cc1a95be2f384"
+    "package_sha256":  "9b1edaf4c194ad9038a819bfb50103d37b8ff5f3962de7499fccca0a5a57ded5"
 }
