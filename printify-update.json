@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.33",
+    "version":  "1.2.34",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Moved update checks to a GitHub Release manifest file to avoid API rate limits and raw-file caching, with safer retry handling.",
+    "release_notes":  "Fixed New Print filament searching, made the filament box replace old text when typing, clarified hours/minutes/labor inputs, added Easy and Advanced settings modes with a profit slider, and improved tiny-job pricing so extra cost does not wipe out profit.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-05-24",
-    "package_sha256":  "74de2d05ecde6546c35276bb5e8ffc02e6b0f9ade07501752ed092e5ef03a36c"
+    "published_at":  "2026-05-25",
+    "package_sha256":  "99e015e699bb20b9b941dc5e8b42f5d18bcfa4c12b38a90d2b20c94524dd7f09"
 }
