@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.25",
+    "version":  "1.2.26",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "This is the biggest update done yet, We added Support filament cost, Electricity cost, We revamped the UI and we revamped the Print History to make it better for expense tracking, Hope this is a good update!",
+    "release_notes":  "Database update, Added about 30 New filament types. And 1 more brand.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-24",
-    "package_sha256":  "fa43dd56f61c455baec7e8e5613075e8c5bfd3461f2212a2597794de54d9b7a2"
+    "package_sha256":  "a79ed4032c5fda82a6d537e2bb9a18ddb1835fb99cbd3544833ed1e76651b7d0"
 }
