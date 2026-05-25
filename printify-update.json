@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.39",
+    "version":  "1.2.41",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Quick UI fix: fixed the black New Print background caused by the scroll-safe layout, restored the white cards, and made the default starting filament Bambu Lab PLA Basic again.",
+    "release_notes":  "Inventory and dark mode update: added owned filament inventory with roll sizes and colors, New Print now only shows owned rolls and deducts used grams after saving, added dark mode, made the updater restart handoff faster, and cleaned up visible filament row numbers.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-25",
-    "package_sha256":  "9b1edaf4c194ad9038a819bfb50103d37b8ff5f3962de7499fccca0a5a57ded5"
+    "package_sha256":  "85f8daaa0ed566b618b4249629fc4e60ca5e304bbbd9dbaa9fb7936ac1663c0a"
 }
