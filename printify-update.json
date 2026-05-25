@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.35",
+    "version":  "1.2.36",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Fixed the Suggested Price getting stuck at the minimum. Empty jobs now show .00, and any real grams, runtime, or labor will move Suggested Price upward while protecting profit.",
+    "release_notes":  "Improved New Print filament typing and fuzzy search. Update checks now run about every 3 minutes with a small stagger so many users do not check at the exact same time.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-25",
-    "package_sha256":  "c84bbe57c667a257327a730f2cab45e887953e64a478f8214c67fb076c334d92"
+    "package_sha256":  "11d5b476305999643d33e0e627ee020297b42c4fc6bd7cb5d88e95d86f14a768"
 }
