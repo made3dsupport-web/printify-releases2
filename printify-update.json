@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.27",
+    "version":  "1.2.28",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Added new types of filament. About 10 more, And fixed an updating bug.",
+    "release_notes":  "Fixed the cluttered Settings screen and cleaned up numeric input controls.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-24",
-    "package_sha256":  "b500e6af7829140e0ee4b7f28909e313d6198ebd751d8b5d9dc14ba8b2b9d423"
+    "package_sha256":  "98cd904525145ca8c708a7d213936f3a91b05cb4fd681a9ee227f674bbae8408"
 }
