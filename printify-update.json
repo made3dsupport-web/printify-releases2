@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.28",
+    "version":  "1.2.29",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Fixed the cluttered Settings screen and cleaned up numeric input controls.",
+    "release_notes":  "Fixed the Settings UI overlap bug and made support grams history-only so they do not add cost.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-24",
-    "package_sha256":  "98cd904525145ca8c708a7d213936f3a91b05cb4fd681a9ee227f674bbae8408"
+    "package_sha256":  "97bc7cd7d7e709680ad249f404b75848bea7c87545fa3ed18117018b3d5424ed"
 }
