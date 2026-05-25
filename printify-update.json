@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.23",
+    "version":  "1.2.24",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Silent update notice: after Printify installs an update and opens again, it now shows Update Installed once with the fixes from that update. This also detects updates installed by older updater builds.",
+    "release_notes":  "Test update: updater verification build.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-05-24",
-    "package_sha256":  "07f3397292fd444377ea77d10d22cfb3768d6da931d49cf3084280724336358a"
+    "package_sha256":  "cd5cc08627d53f58f6b6f927ad13a1caf3372c79d15244dd5f311837e899e0ac"
 }
