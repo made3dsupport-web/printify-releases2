@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.44",
+    "version":  "1.2.45",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "First-run setup update: added a one-time Light/Dark mode chooser with previews, Discord support prompt, startup tutorial, improved Inventory search and clearer owned-roll workflow, plus Costivo icons for the app, updater, and installer.",
+    "release_notes":  "Uninstall cleanup update: uninstall now removes the Costivo app folder, shortcuts, saved prints, settings, inventory, and update data. Reinstalling after uninstall starts fresh and shows the first-run setup popup again.",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-06-01",
-    "package_sha256":  "939e7374dd8353bf1d9315179e5b17d048a16be50a5831731b32d49bca52b627"
+    "package_sha256":  "f772d0bc35b51a50bdecc312f786b34c354c1bab24b86dbeb4759447544786c8"
 }
