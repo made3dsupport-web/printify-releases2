@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.42",
+    "version":  "1.2.43",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Database update: added CREALITY filament defaults with official 1KG and verified bulk pricing for USD and AUD. Skipped unpriced products, resin, accessories, and Amazon-only override listings so the calculator defaults stay clean and editable.",
+    "release_notes":  "Database update: added POLYMAKER and eSUN filament defaults for USD and AUD. Includes official calculated single-spool and verified pack pricing, while skipping unpriced bundles, accessories, resin, and Amazon-only manual override listings.",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-05-26",
-    "package_sha256":  "2c857c79b6d045f1c63c67f43c2acbd2588048856c3c1a79c78de89b31ebbbc2"
+    "published_at":  "2026-06-01",
+    "package_sha256":  "f9d0eba5f5df8f28720457a7a5b99ebdf8b5f607ea5f5f1c97805eda814b6ab0"
 }
