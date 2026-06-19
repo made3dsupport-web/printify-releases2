@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.57",
+    "version":  "1.2.58",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Made the startup Discord notice larger and more noticeable. Appoliges to all, My discord account. Friend my new account. username is: squawkcode24",
+    "release_notes":  "Full update: made the startup Discord notice larger and more noticeable, removed Chat rooms from the app, and rebuilt the full Costivo package. Notice: Appoliges to all, My discord account. Friend my new account. username is: squawkcode24",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-06-18",
-    "package_sha256":  "047cae6bd3fbf5337f9537031045f69c7caafb14f2fdfce4a6d2c720b7a1892d"
+    "package_sha256":  "bb95c31480ed6427e9dddebfaf86bbd8d0214bdb591209284a10a43dd9e93b75"
 }
