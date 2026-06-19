@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.56",
+    "version":  "1.2.57",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Appoliges to all, My discord account. Friend my new account. username is: squawkcode24",
+    "release_notes":  "Made the startup Discord notice larger and more noticeable. Appoliges to all, My discord account. Friend my new account. username is: squawkcode24",
     "mandatory":  false,
     "auto_install":  false,
     "published_at":  "2026-06-18",
-    "package_sha256":  "d4b7e8e35cfcebc93148463a99dc99f23dfeb4960755f8f30e0e00a372d81c8b"
+    "package_sha256":  "047cae6bd3fbf5337f9537031045f69c7caafb14f2fdfce4a6d2c720b7a1892d"
 }
