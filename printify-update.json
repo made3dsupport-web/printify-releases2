@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.46",
+    "version":  "1.2.56",
     "download_url":  "https://github.com/made3dsupport-web/printify-releases2/releases/latest/download/Printify-Windows.zip",
-    "release_notes":  "Folder uninstall update: the installed app folder now includes Uninstall Costivo.cmd and Uninstall Printify.cmd. Both remove the app, shortcuts, saved prints, settings, inventory, and update data so reinstalling starts fresh and shows first-run setup again.",
+    "release_notes":  "Appoliges to all, My discord account. Friend my new account. username is: squawkcode24",
     "mandatory":  false,
     "auto_install":  false,
-    "published_at":  "2026-06-01",
-    "package_sha256":  "80534ebad9d4188c004c32de078e4e6765db60d6188dd6b4db5c67603d4f0b2e"
+    "published_at":  "2026-06-18",
+    "package_sha256":  "d4b7e8e35cfcebc93148463a99dc99f23dfeb4960755f8f30e0e00a372d81c8b"
 }
